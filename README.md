@@ -1,3 +1,3 @@
 # Indian Restaurant
 
-Indian Restaurant mini project.
+Indian Restaurant mini project!
